@@ -1,7 +1,13 @@
 ---
-layout: page
-title:
+permalink: /
+title: "Chinemelu U.S. Okafor"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+------
 
 I work at the intersection of politics - particularly governance and anti-corruption - and behavioral economics, with a focus on development policy. I am a Predoctoral Research Specialist at Princeton University through the Emerging Scholars Program, where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. I plan to apply to Ph.D. programs in Fall 2020 with the hope of starting her Ph.D. in Fall 2021
 
