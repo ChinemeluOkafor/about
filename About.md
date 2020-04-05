@@ -7,7 +7,7 @@ author_profile: true
 <img align="left" width="300" height="300" src="https://politics.princeton.edu/sites/default/files/styles/square/public/images/chine_headshot_new.jpg?h=97d761eb&itok=qMU0oj2J">
 
 
-I work at the intersection of politics - particularly governance and anti-corruption - and behavioral economics, with a focus on development policy. I am a Predoctoral Research Specialist at Princeton University through the Emerging Scholars Program, where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. I plan to apply to Ph.D. programs in Fall 2020 with the hope of starting her Ph.D. in Fall 2021
+I work at the intersection of politics - particularly governance and anti-corruption - and behavioral economics, with a focus on development policy. I am a Predoctoral Research Specialist at Princeton University through the Emerging Scholars Program, where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. I plan to apply to Political Science Ph.D. programs in Fall 2020 with the hope of starting in Fall 2021.
 
 Previously, I was an Empirical Studies of Conflict Research Specialist (2018-2019) in the Woodrow Wilson School at Princeton University, under the direction of Professor Jake Shapiro and Professor Tarek Ghani.
 
