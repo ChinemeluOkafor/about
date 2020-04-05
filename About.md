@@ -4,7 +4,7 @@ title:
 excerpt:
 author_profile: true 
 ---
-
+[testing]![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 I work at the intersection of politics - particularly governance and anti-corruption - and behavioral economics, with a focus on development policy. I am a Predoctoral Research Specialist at Princeton University through the Emerging Scholars Program, where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. I plan to apply to Ph.D. programs in Fall 2020 with the hope of starting her Ph.D. in Fall 2021
 
 Previously, I was an Empirical Studies of Conflict Research Specialist (2018-2019) in the Woodrow Wilson School at Princeton University, under the direction of Professor Jake Shapiro and Professor Tarek Ghani.
