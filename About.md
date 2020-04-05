@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chinemelu U.S. Okafor"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
