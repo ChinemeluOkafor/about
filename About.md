@@ -15,4 +15,4 @@ As a prospective Ph.D. student, I plan to examine topics such as ensuring the ac
 
 I hold a Master's degree from the George Washington University in Applied Economics and a double Bachelor's degree in Economics and International Studies from the University of Michigan.
 
-You can find my [CV](https://www.researchincolor.org) here.
+My CV can be found [here](https://chinemeluokafor.github.io/CV/).
