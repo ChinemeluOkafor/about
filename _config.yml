@@ -1,0 +1,11 @@
+# basic options
+title: Chinemelu U.S. Okafor
+author: Chinemelu U.S. Okafor
+email: cokafor@princeton.edu
+description: A wonderful site
+twitter_username: Chine_econ
+github_username:  ChinemeluOkafor
+
+# Build settings
+markdown: kramdown
+theme: minima
