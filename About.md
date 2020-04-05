@@ -9,7 +9,7 @@ author_profile: true
 
 I work at the intersection of politics - particularly governance and anti-corruption - and behavioral economics, with a focus on development policy. I am a Predoctoral Research Specialist at Princeton University through the [Emerging Scholars Program in Political Science](https://politics.princeton.edu/people/chinemelu-okafor), where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. I plan to apply to Political Science Ph.D. programs in Fall 2020 with the hope of starting in Fall 2021.
 
-Previously, I was an [Empirical Studies of Conflict Research Specialist](https://esoc.princeton.edu/authors/chinemelu-u-okafor)(2018-2019) in the Woodrow Wilson School at Princeton University, under the direction of Professor Jake Shapiro and Professor Tarek Ghani.
+Previously, I was an [Empirical Studies of Conflict Research Specialist](https://esoc.princeton.edu/authors/chinemelu-u-okafor) (2018-2019) in the Woodrow Wilson School at Princeton University, under the direction of Professor Jake Shapiro and Professor Tarek Ghani.
 
 Before coming to Princeton, I worked as a research assistant at the International Finance Corporation within the Thought Leadership Unit. My previous professional experiences include positions at the World Bank, the United Nations, and Thomson Reuters, among others.
 
