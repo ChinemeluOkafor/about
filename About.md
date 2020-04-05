@@ -15,7 +15,7 @@ Before coming to Princeton, I worked as a research assistant at the Internationa
 
 I am also the Founder and President of [The Research in Color Foundation](https://www.researchincolor.org): a mentoring non-profit for racial and ethnic minorities looking to pursue doctoral degrees in economics, or economics-adjacent disciplines.
 
-As a prospective Ph.D. student, I plan to examine topics such as ensuring the accountability of public officials, implementing community-responsive policymaking, and grassroots solutions to corruption and inequality.
+As a prospective Ph.D. student, I plan to examine topics such as ensuring the accountability of public officials, implementing community-responsive policymaking, and finding grassroots solutions to corruption and inequality.
 
 I hold a Master's degree from the [George Washington University in Applied Economics](https://economics.columbian.gwu.edu/ma-applied-economics) and a double Bachelor's degree in Economics and International Studies from [the University of Michigan](https://umich.edu/).
 
