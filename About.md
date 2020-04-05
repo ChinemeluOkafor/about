@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: About Me
 ---
 
 I work at the intersection of politics - particularly governance and anti-corruption - and behavioral economics, with a focus on development policy. I am a Predoctoral Research Specialist at Princeton University through the Emerging Scholars Program, where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. 
