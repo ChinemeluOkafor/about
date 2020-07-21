@@ -13,7 +13,7 @@ Previously, I was an [Empirical Studies of Conflict Research Specialist](https:/
 
 Before coming to Princeton, I worked as a research assistant at the International Finance Corporation within the Thought Leadership Unit under the guidance of Dr. Tristan Reed and Dr. Alexandros Ragoussis. My previous professional experiences include positions at the World Bank, the United Nations, and Thomson Reuters, among others.
 
-In my spare time, I work as the Founder and President of [The Research in Color Foundation](https://www.researchincolor.org): a mentoring non-profit for racial and ethnic minorities looking to pursue doctoral degrees in economics, or economics-adjacent disciplines.
+In my spare time, I work as the Founder and President of [The Research in Color Foundation](https://www.researchincolor.org): a mentoring non-profit for racial and ethnic minorities looking to pursue doctoral degrees in economics, or economics-adjacent disciplines. I also find joy in playing the violin.
 
 As a prospective Ph.D. student, I plan to examine topics such as ensuring the accountability of public officials, implementing community-responsive policymaking in ethnically diverse settings, understanding the historical roots of comparative African development, and using grassroots solutions to fight corruption in Sub-Saharan Africa.
 
