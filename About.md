@@ -7,7 +7,7 @@ author_profile: true
 <img align="right" width="270" height="270" src="https://politics.princeton.edu/sites/default/files/styles/square/public/images/chine_headshot_new.jpg?h=97d761eb&itok=qMU0oj2J">
 
 
-My interests lie at the intersection of politics - particularly governance and collective action - and behavioral economics, with a focus on African development. I am a Predoctoral Research Scholar at Princeton University through the [Emerging Scholars Program in Political Science](https://politics.princeton.edu/people/chinemelu-okafor), where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. I plan to apply to Political Science Ph.D. programs in the Fall of 2020 with the hope of starting in the Fall of 2021.
+My interests lie at the intersection of comparative politics - particularly governance and collective action - and behavioral economics, with a focus on African development. I am a Predoctoral Research Scholar at Princeton University through the [Emerging Scholars Program in Political Science](https://politics.princeton.edu/people/chinemelu-okafor), where I currently provide advanced statistical analysis to support the work of my faculty mentor, Professor LaFleur Stephens-Dougan. I plan to apply to Political Science Ph.D. programs in the Fall of 2020 with the hope of starting in the Fall of 2021.
 
 Previously, I was an [Empirical Studies of Conflict Research Specialist](https://esoc.princeton.edu/about-us/people/chinemelu-u-okafor) (2018-2019) in the Woodrow Wilson School at Princeton University, under the direction of Professor Jake Shapiro and Professor Tarek Ghani.
 
