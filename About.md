@@ -11,5 +11,5 @@ Chinemelu Okafor is a researcher and scholar originating from Umuoji, Anambra St
 
 For general inquiries please contact my assisant [Tiffany Agyarko](mailto:tagyarko@princeton.edu).
 
-For inquries regarding the Research in Color Foundation please head to [the Research in Color Foundation website](https://www.researchincolor.org/contact-the-team).
+For inquries regarding the Research in Color Foundation please head to the [Research in Color Foundation](https://www.researchincolor.org/contact-the-team) website.
 
