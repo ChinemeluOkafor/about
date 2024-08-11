@@ -6,7 +6,7 @@ author_profile: true
 ---
 <img align="right" width="270" height="270" src="https://politics.princeton.edu/sites/default/files/styles/square/public/images/chine_headshot_new.jpg?h=97d761eb&itok=qMU0oj2J">
 
-Check out my personal website [here](https://www.chinemeluokafor.com/)!
+**Check out my personal website [here](https://www.chinemeluokafor.com/)!**
 
 I am a third-year Harvard PhD candidate, Graduate Prize Fellow, Karl Deutsch Fellow, and 2024-25 Weatherhead Center Graduate Student Associate. My research lies at the intersection of political economy, development economics, and economic history. Specifically, I quantitatively explore the social, cultural, and institutional channels through which colonial-era policies persist and shape contemporary economic and political development outcomes in Nigeria. 
 
